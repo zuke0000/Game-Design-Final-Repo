@@ -1,0 +1,5 @@
+Nothing changed much since last time.
+
+Feedback was to make the environment easier to see and to change the sensitivity of the mouse.
+
+At least for my computer the fans are loud when the game runs. I believe this is from no frame rate which wastes resources. 
